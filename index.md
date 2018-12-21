@@ -4,13 +4,11 @@ layout: default
 
 Download the software as you like.
 
-[Link to another page](./another-page.html).
+## Windows version
 
-## Windows Version
+* supported XP/Vista/Win7/Win10
 
-* supported XP/Vista/WIN7/WIN10
-
-## iPhone or iPad Version
+## iPhone or iPad version
 
 * supported iOS 9.0 or above.
 * supported English language.
