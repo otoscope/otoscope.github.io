@@ -8,7 +8,7 @@ Download the software as you like.
 
 * supported XP/Vista/Win7/Win10
 
-## iPhone or iPad version
+## iPhone or iPad version (coming soon)
 
 * supported iOS 9.0 or above.
 * supported English language.
